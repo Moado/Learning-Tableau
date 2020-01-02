@@ -1,0 +1,5 @@
+Region	Profit Target
+Central	600,000
+East	350,000
+South	100,000
+West	300,000
